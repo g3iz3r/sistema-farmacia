@@ -1,0 +1,27 @@
+================================================================================
+                    SISTEMA DE FARMÁCIA - BASE DE DADOS
+================================================================================
+
+[PRODUTOS_COSMETICOS]
+codigo;nome;marca;categoria;preco;quantidadeEstoque
+1;Protetor Solar FPS 50;La Roche-Posay;Cuidados com a Pele;89.90;25
+2;Hidratante Facial Ácido Hialurônico;CeraVe;Cuidados com a Pele;74.50;40
+3;Shampoo Antiqueda Revitalizante;Vichy Dercos;Cabelos;112.00;17
+4;Batom Matte Longa Duração;Maybelline;Maquiagem;39.90;50
+5;Água Micelar Demaquilante 400ml;L'Oréal Paris;Limpeza Facial;44.90;30
+
+[CLIENTES]
+id;nome;cpf;telefone
+1;Maria Fernanda Souza;111.222.333-44;(11) 98765-4321
+2;Carlos Eduardo Lima;555.666.777-88;(11) 91234-5678
+3;Leticia rodrigues;02014578956;(63) 99565 3545
+
+[FUNCIONARIOS]
+id;nome;cargo;registro
+1;Camila Santos;Atendente;MAT-1042
+2;Dra. Juliana Lima;Farmacêutica;CRF-SP 48.912
+
+[HISTORICO_VENDAS]
+id;dataHora;codigoProduto;nomeProduto;quantidade;subtotal;taxa;valorTotal;formaPagamento;funcionario;cliente
+1;16/11/2026 14:00;1;Protetor Solar FPS 50;1;89.90;0.00;89.90;Pix;Camila Santos (Atendente);Maria Fernanda Souza
+2;16/11/2026 15:37;3;Shampoo Antiqueda Revitalizante;1;112.00;0.00;112.00;Pix;Camila Santos (Atendente);Leticia rodrigues

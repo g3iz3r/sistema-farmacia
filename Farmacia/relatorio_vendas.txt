@@ -1,0 +1,26 @@
+================================================================================
+           RELATÓRIO GERAL DE VENDAS - FARMÁCIA SAÚDE & BELEZA
+================================================================================
+Data da Emissão: 16/11/2026 15:37:19
+--------------------------------------------------------------------------------
+Total de Vendas Realizadas : 2 vendas
+Total de Unidades Vendidas : 2 unidades
+Subtotal dos Cosméticos    : R$ 201.90
+Total de Taxas Coletadas   : R$ 0.00 (Taxa de 2% Cartão Crédito)
+FATURAMENTO BRUTO TOTAL    : R$ 201.90
+--------------------------------------------------------------------------------
+RESUMO POR FORMA DE PAGAMENTO:
+ - Dinheiro          : R$     0.00  (0 vendas)
+ - Pix               : R$   201.90  (2 vendas)
+ - Cartão de Débito  : R$     0.00  (0 vendas)
+ - Cartão de Crédito : R$     0.00  (0 vendas)
+--------------------------------------------------------------------------------
+RESUMO POR FUNCIONÁRIO:
+ - Camila Santos (Atendente)       : R$   201.90  (2 vendas)
+--------------------------------------------------------------------------------
+HISTÓRICO DETALHADO DE TRANSAÇÕES:
+ID    | DATA/HORA        | PRODUTO                      | QTD  | PAGAMENTO        | TAXA     | TOTAL     
+--------------------------------------------------------------------------------
+#1    | 16/11/2026 14:00 | Protetor Solar FPS 50        | 1    | Pix              | R$ 0.00  | R$ 89.90   
+#2    | 16/11/2026 15:37 | Shampoo Antiqueda Revitalizante | 1    | Pix              | R$ 0.00  | R$ 112.00  
+================================================================================
